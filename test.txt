@@ -1,0 +1,7 @@
+Hello, How are you?
+
+This is a test file i have created to play around with the GIT.
+
+Thank you.
+
+
